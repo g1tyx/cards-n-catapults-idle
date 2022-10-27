@@ -104,7 +104,7 @@ var cnItems = {
     "Produces 1 Wood/s": "生产 1 木头/秒",
     "Resource": "资源",
     "Wood": "木头",
-    "Automatically replaces food anywhere on the grid every 5 seconds for 1 Wood.": "每 5 秒自动替换网格上任意位置的食物，获得 1 个木材。",
+    "Automatically replaces food anywhere on the grid every 5 seconds for 1 Wood.": "每 5 秒自动替换网格上任意位置的食物，消耗 1 个木材。",
     "Campfire": "营火",
     "Lumberjack": "伐木工",
     "You may notice that when food is completely used up it sometimes remains as faded out. In this state the card is just a placeholder for being automatically replaced. Some cards like the campfire will automatically place food cards into these tiles. Cards that generate cards adjacent to them such as Rat Den or Forager will not override these tiles but they can place cards here that match the reservation. A tile can only be reserved this way by manually placing cards.": "您可能会注意到，当食物完全用完时，它有时会保持淡出状态。 在这种状态下，卡片只是一个自动替换的占位符。 一些像篝火这样的卡片会自动将食物卡片放入这些瓷砖中。 生成与其相邻的卡片（例如 鼠洞 或 觅食者）的卡片不会覆盖这些图块，但它们可以在此处放置与预订匹配的卡片。 只能通过手动放置卡片来保留瓷砖。",
