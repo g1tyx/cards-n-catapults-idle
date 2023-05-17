@@ -211,7 +211,7 @@ var cnItems = {
     "Dawn of a New Age": "新时代的曙光",
     "each": "每个",
     "Economy": "经济",
-    "Faster Chomping": "更快的咀嚼",
+    "Faster Chomping": "更快的砍伐",
     "Half": "一半",
     "Improves all nearby Person cards by 50%.": "将附近的所有人物卡牌提高 50%。",
     "Lumberjacks produce twice as much wood.": "伐木工人生产两倍的木材。",
