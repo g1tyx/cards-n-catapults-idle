@@ -229,7 +229,7 @@ var cnItems = {
     "Unlocks the ability to make tools.": "解锁制作工具的能力。",
     "/s": "/秒",
     "You'll find that most person cards (Lumberjacks and Farmers) and some special cards will have a food drain stat. This is the rate at which they eat food and it's always listed as per second. Cards generally eat food that is adjacent to them (orthogonally) and will eat food from all those cards at an equal rate.": "你会发现大多数人物卡牌（伐木工人和农民）和一些特殊卡都会有食物流失统计数据。 这是他们吃东西的速度，它总是以每秒为单位列出。 卡牌通常会吃与其相邻（正交）的食物，并且会以相同的速率吃掉所有这些卡牌中的食物。",
-    "": "",
+    "Purchased!": "已购买！",
     "": "",
     "": "",
     "": "",
